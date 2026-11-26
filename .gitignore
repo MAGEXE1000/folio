@@ -1,0 +1,15 @@
+target/
+build/
+.gradle/
+**/bin/
+**/obj/
+dist/
+Releases/
+*.apk
+*.so
+*.dll
+*.exe
+*.zip
+*.sha256
+local.properties
+.cxx/
